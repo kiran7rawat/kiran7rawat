@@ -6,7 +6,7 @@ I'm a Computer Science student graduating in June 2025 and an aspiring Software 
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
@@ -42,6 +42,8 @@ I'm a Computer Science student graduating in June 2025 and an aspiring Software 
 - LinkedIn: [https://www.linkedin.com/in/km-kiran-a828a2230/](https://www.linkedin.com/in/km-kiran-a828a2230/)
 - Email: kiranrawat873@gmail.com
 - Portfolio: [https://kiran7rawat.github.io/KIRAN_Portfolio/](https://kiran7rawat.github.io/KIRAN_Portfolio/)
+- Instagram: [https://www.instagram.com/kiranrawat_7/?hl=en](https://www.instagram.com/kiranrawat_7/?hl=en)
+- Youtube: [https://www.youtube.com/@kiranrawat5002](https://www.youtube.com/@kiranrawat5002)
 
 ## 📊 GitHub Stats
 
