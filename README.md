@@ -37,13 +37,14 @@ I'm a Computer Science student graduating in June 2025 and an aspiring Software 
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
-## 📫 How to reach me
+## 📫 How to reach me  
 
-- LinkedIn: [https://www.linkedin.com/in/km-kiran-a828a2230/](https://www.linkedin.com/in/km-kiran-a828a2230/)
-- Email: kiranrawat873@gmail.com
-- Portfolio: [https://kiran7rawat.github.io/KIRAN_Portfolio/](https://kiran7rawat.github.io/KIRAN_Portfolio/)
-- Instagram: [https://www.instagram.com/kiranrawat_7/?hl=en](https://www.instagram.com/kiranrawat_7/?hl=en)
-- Youtube: [https://www.youtube.com/@kiranrawat5002](https://www.youtube.com/@kiranrawat5002)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/km-kiran-a828a2230/)  
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kiranrawat873@gmail.com)  
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://kiran7rawat.github.io/KIRAN_Portfolio/)  
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kiranrawat_7/?hl=en)  
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@kiranrawat5002)  
+
 
 ## 📊 GitHub Stats
 
