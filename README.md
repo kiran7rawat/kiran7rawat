@@ -1,36 +1,53 @@
-<h1 align="center">Hi 👋, I'm KM KIRAN</h1>
-<h3 align="center">I'm a Computer Science student graduating in June 2025 and an aspiring Software Developer passionate about building web applications. Currently seeking opportunities in Software Development or Frontend Development roles.</h3>
+# 👋 Hi there, I'm KM KIRAN
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran7rawat&label=Profile%20views&color=0e75b6&style=flat" alt="kiran7rawat" /> </p>
+I'm a Computer Science student graduating in June 2025 and an aspiring Software Developer passionate about building web applications. Currently seeking opportunities in Software Development or Frontend Development roles.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran7rawat" alt="kiran7rawat" /></a> </p>
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on **walmart_sparkathon_2024**
+### Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://kiran7rawat.github.io/KIRAN_Portfolio/](https://kiran7rawat.github.io/KIRAN_Portfolio/)
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- 📝 I regularly write articles on [https://www.youtube.com/@kiranrawat5002](https://www.youtube.com/@kiranrawat5002)
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- 📫 How to reach me **kiranrawat873@gmail.com**
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Om-OSx17lSEnnC__3ihKIxH5Y6lYMU4/view?usp=sharing](https://drive.google.com/file/d/19Om-OSx17lSEnnC__3ihKIxH5Y6lYMU4/view?usp=sharing)
+## 🌱 Currently
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/km kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="km kiran" height="30" width="40" /></a>
-<a href="https://instagram.com/kiranrawat_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiranrawat_7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kiranrawat5002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kiranrawat5002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pikku_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pikku_07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kiranranwz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kiranranwz7" height="30" width="40" /></a>
-</p>
+- 📚 Pursuing my degree in Computer Science
+- 💼 Seeking Software Development opportunities
+- 🔭 Working on personal projects to enhance my portfolio
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 💻 Coding Profiles
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran7rawat&show_icons=true&locale=en&layout=compact" alt="kiran7rawat" /></p>
+<a href="https://leetcode.com/u/Pikku_07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/kiranranwz7/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran7rawat&show_icons=true&locale=en" alt="kiran7rawat" /></p>
+## 📫 How to reach me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran7rawat&" alt="kiran7rawat" /></p>
+- LinkedIn: [https://www.linkedin.com/in/km-kiran-a828a2230/](https://www.linkedin.com/in/km-kiran-a828a2230/)
+- Email: kiranrawat873@gmail.com
+- Portfolio: [https://kiran7rawat.github.io/KIRAN_Portfolio/](https://kiran7rawat.github.io/KIRAN_Portfolio/)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tushar282002&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar282002&layout=compact&theme=radical)
+
+---
+⭐️ From [kiran7rawat](https://github.com/kiran7rawat)
